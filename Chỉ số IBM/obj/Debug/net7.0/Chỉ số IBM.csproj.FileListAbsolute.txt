@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\bin\Debug\net7.0\Chỉ số IBM.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\bin\Debug\net7.0\Chỉ số IBM.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\bin\Debug\net7.0\Chỉ số IBM.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\bin\Debug\net7.0\Chỉ số IBM.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\bin\Debug\net7.0\Chỉ số IBM.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\refint\Chỉ số IBM.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\Chỉ số IBM.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chỉ số IBM\obj\Debug\net7.0\ref\Chỉ số IBM.dll
