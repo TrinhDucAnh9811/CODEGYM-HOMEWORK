@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\bin\Debug\net7.0\Giải phương trình bậc nhất.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\bin\Debug\net7.0\Giải phương trình bậc nhất.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\bin\Debug\net7.0\Giải phương trình bậc nhất.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\bin\Debug\net7.0\Giải phương trình bậc nhất.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\bin\Debug\net7.0\Giải phương trình bậc nhất.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\refint\Giải phương trình bậc nhất.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\Giải phương trình bậc nhất.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Giải phương trình bậc nhất\obj\Debug\net7.0\ref\Giải phương trình bậc nhất.dll
