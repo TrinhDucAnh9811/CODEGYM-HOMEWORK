@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\bin\Debug\net7.0\HIỂN THỊ LỜI CHÀO.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\bin\Debug\net7.0\HIỂN THỊ LỜI CHÀO.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\bin\Debug\net7.0\HIỂN THỊ LỜI CHÀO.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\bin\Debug\net7.0\HIỂN THỊ LỜI CHÀO.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\bin\Debug\net7.0\HIỂN THỊ LỜI CHÀO.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\refint\HIỂN THỊ LỜI CHÀO.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\HIỂN THỊ LỜI CHÀO.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\HIỂN THỊ LỜI CHÀO\obj\Debug\net7.0\ref\HIỂN THỊ LỜI CHÀO.dll

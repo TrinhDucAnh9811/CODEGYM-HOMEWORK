@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HIỂN THỊ LỜI CHÀO/1.0.0": {
+        "runtime": {
+          "HIỂN THỊ LỜI CHÀO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HIỂN THỊ LỜI CHÀO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
