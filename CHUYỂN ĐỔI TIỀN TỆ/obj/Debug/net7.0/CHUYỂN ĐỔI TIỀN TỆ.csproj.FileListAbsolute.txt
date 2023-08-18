@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\bin\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\bin\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\bin\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\bin\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\bin\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\refint\CHUYỂN ĐỔI TIỀN TỆ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\CHUYỂN ĐỔI TIỀN TỆ.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\CHUYỂN ĐỔI TIỀN TỆ\obj\Debug\net7.0\ref\CHUYỂN ĐỔI TIỀN TỆ.dll
