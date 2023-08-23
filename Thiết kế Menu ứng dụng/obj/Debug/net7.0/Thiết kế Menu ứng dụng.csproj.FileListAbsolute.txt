@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\bin\Debug\net7.0\Thiết kế Menu ứng dụng.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\bin\Debug\net7.0\Thiết kế Menu ứng dụng.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\bin\Debug\net7.0\Thiết kế Menu ứng dụng.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\bin\Debug\net7.0\Thiết kế Menu ứng dụng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\bin\Debug\net7.0\Thiết kế Menu ứng dụng.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\refint\Thiết kế Menu ứng dụng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\Thiết kế Menu ứng dụng.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Thiết kế Menu ứng dụng\obj\Debug\net7.0\ref\Thiết kế Menu ứng dụng.dll
