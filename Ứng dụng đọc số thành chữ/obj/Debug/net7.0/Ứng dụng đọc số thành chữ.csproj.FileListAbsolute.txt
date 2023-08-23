@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\bin\Debug\net7.0\Ứng dụng đọc số thành chữ.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\bin\Debug\net7.0\Ứng dụng đọc số thành chữ.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\bin\Debug\net7.0\Ứng dụng đọc số thành chữ.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\bin\Debug\net7.0\Ứng dụng đọc số thành chữ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\bin\Debug\net7.0\Ứng dụng đọc số thành chữ.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\refint\Ứng dụng đọc số thành chữ.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\Ứng dụng đọc số thành chữ.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Ứng dụng đọc số thành chữ\obj\Debug\net7.0\ref\Ứng dụng đọc số thành chữ.dll
