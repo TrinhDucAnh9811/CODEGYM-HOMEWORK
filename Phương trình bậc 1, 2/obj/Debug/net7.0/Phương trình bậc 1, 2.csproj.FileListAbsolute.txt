@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\bin\Debug\net7.0\Phương trình bậc 1, 2.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\bin\Debug\net7.0\Phương trình bậc 1, 2.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\bin\Debug\net7.0\Phương trình bậc 1, 2.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\bin\Debug\net7.0\Phương trình bậc 1, 2.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\bin\Debug\net7.0\Phương trình bậc 1, 2.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\refint\Phương trình bậc 1, 2.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\Phương trình bậc 1, 2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Phương trình bậc 1, 2\obj\Debug\net7.0\ref\Phương trình bậc 1, 2.dll
