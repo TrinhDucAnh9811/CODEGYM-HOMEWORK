@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kiểm tra số nguyên tố/1.0.0": {
+        "runtime": {
+          "Kiểm tra số nguyên tố.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiểm tra số nguyên tố/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

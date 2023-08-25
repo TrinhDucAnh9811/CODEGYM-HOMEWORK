@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\bin\Debug\net7.0\Kiểm tra số nguyên tố.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\bin\Debug\net7.0\Kiểm tra số nguyên tố.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\bin\Debug\net7.0\Kiểm tra số nguyên tố.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\bin\Debug\net7.0\Kiểm tra số nguyên tố.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\bin\Debug\net7.0\Kiểm tra số nguyên tố.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\refint\Kiểm tra số nguyên tố.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\Kiểm tra số nguyên tố.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Kiểm tra số nguyên tố\obj\Debug\net7.0\ref\Kiểm tra số nguyên tố.dll
