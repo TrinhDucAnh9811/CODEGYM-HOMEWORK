@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tính tổng giá trị đường chéo mảng 2 chiều/1.0.0": {
+        "runtime": {
+          "Tính tổng giá trị đường chéo mảng 2 chiều.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tính tổng giá trị đường chéo mảng 2 chiều/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
