@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tìm giá trị lớn nhất trong mảng 2 chiều/1.0.0": {
+        "runtime": {
+          "Tìm giá trị lớn nhất trong mảng 2 chiều.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tìm giá trị lớn nhất trong mảng 2 chiều/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
