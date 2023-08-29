@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\bin\Debug\net7.0\Tính tổng của mảng 1 chiều.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\bin\Debug\net7.0\Tính tổng của mảng 1 chiều.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\bin\Debug\net7.0\Tính tổng của mảng 1 chiều.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\bin\Debug\net7.0\Tính tổng của mảng 1 chiều.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\bin\Debug\net7.0\Tính tổng của mảng 1 chiều.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\refint\Tính tổng của mảng 1 chiều.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\Tính tổng của mảng 1 chiều.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tính tổng của mảng 1 chiều\obj\Debug\net7.0\ref\Tính tổng của mảng 1 chiều.dll
