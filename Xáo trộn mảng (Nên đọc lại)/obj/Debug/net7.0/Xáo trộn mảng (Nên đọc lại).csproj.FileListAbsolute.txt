@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\bin\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\bin\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\bin\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\bin\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\bin\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\refint\Xáo trộn mảng (Nên đọc lại).dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\Xáo trộn mảng (Nên đọc lại).genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xáo trộn mảng (Nên đọc lại)\obj\Debug\net7.0\ref\Xáo trộn mảng (Nên đọc lại).dll
