@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\bin\Debug\net7.0\Dò Mìn MINESWEEPER.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\bin\Debug\net7.0\Dò Mìn MINESWEEPER.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\bin\Debug\net7.0\Dò Mìn MINESWEEPER.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\bin\Debug\net7.0\Dò Mìn MINESWEEPER.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\bin\Debug\net7.0\Dò Mìn MINESWEEPER.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\refint\Dò Mìn MINESWEEPER.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\Dò Mìn MINESWEEPER.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Dò Mìn MINESWEEPER\obj\Debug\net7.0\ref\Dò Mìn MINESWEEPER.dll
