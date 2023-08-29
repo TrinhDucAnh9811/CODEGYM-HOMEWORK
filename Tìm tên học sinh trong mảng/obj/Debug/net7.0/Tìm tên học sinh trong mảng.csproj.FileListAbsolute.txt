@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\bin\Debug\net7.0\Tìm tên học sinh trong mảng.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\bin\Debug\net7.0\Tìm tên học sinh trong mảng.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\bin\Debug\net7.0\Tìm tên học sinh trong mảng.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\bin\Debug\net7.0\Tìm tên học sinh trong mảng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\bin\Debug\net7.0\Tìm tên học sinh trong mảng.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\refint\Tìm tên học sinh trong mảng.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\Tìm tên học sinh trong mảng.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm tên học sinh trong mảng\obj\Debug\net7.0\ref\Tìm tên học sinh trong mảng.dll
