@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Xóa giá trị trong mảng bằng method/1.0.0": {
+        "runtime": {
+          "Xóa giá trị trong mảng bằng method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xóa giá trị trong mảng bằng method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\bin\Debug\net7.0\Xóa giá trị trong mảng bằng method.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\bin\Debug\net7.0\Xóa giá trị trong mảng bằng method.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\bin\Debug\net7.0\Xóa giá trị trong mảng bằng method.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\bin\Debug\net7.0\Xóa giá trị trong mảng bằng method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\bin\Debug\net7.0\Xóa giá trị trong mảng bằng method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\refint\Xóa giá trị trong mảng bằng method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\Xóa giá trị trong mảng bằng method.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Xóa giá trị trong mảng bằng method\obj\Debug\net7.0\ref\Xóa giá trị trong mảng bằng method.dll
