@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\bin\Debug\net7.0\Chuyển đổi độ C sang F.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\bin\Debug\net7.0\Chuyển đổi độ C sang F.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\bin\Debug\net7.0\Chuyển đổi độ C sang F.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\bin\Debug\net7.0\Chuyển đổi độ C sang F.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\bin\Debug\net7.0\Chuyển đổi độ C sang F.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\refint\Chuyển đổi độ C sang F.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\Chuyển đổi độ C sang F.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Chuyển đổi độ C sang F\obj\Debug\net7.0\ref\Chuyển đổi độ C sang F.dll
