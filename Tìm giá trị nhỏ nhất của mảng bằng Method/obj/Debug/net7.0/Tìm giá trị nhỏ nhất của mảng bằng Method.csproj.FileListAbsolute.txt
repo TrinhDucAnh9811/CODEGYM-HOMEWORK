@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\bin\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\bin\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\bin\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\bin\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\bin\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\refint\Tìm giá trị nhỏ nhất của mảng bằng Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\Tìm giá trị nhỏ nhất của mảng bằng Method.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Tìm giá trị nhỏ nhất của mảng bằng Method\obj\Debug\net7.0\ref\Tìm giá trị nhỏ nhất của mảng bằng Method.dll
