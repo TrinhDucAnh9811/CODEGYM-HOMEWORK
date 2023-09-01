@@ -8,9 +8,9 @@ namespace DucAnh
             int width = 10;
             int height = 8;
             int[,] walls = new int[width, height]; //Mảng 2 chiều của tường
-            int[] snake;
+            int Score = 0;
 
-            //Vị trí ban đầu của mồi (random + if)     
+            //Vị trí ban đầu của mồi, đảm bảo khác vị trí của rắn ban đầu (random + if):     
             Random randomFood = new Random();
             int foodRow = randomFood.Next (1,9);
             int foodCol = randomFood.Next(1, 8);
@@ -29,7 +29,6 @@ namespace DucAnh
 
 
             bool play = true;
-
 
 
             while (play)
@@ -115,6 +114,26 @@ namespace DucAnh
                 Console.SetCursorPosition(originalRow, originalCol);
                 Console.BackgroundColor = ConsoleColor.Green;
                 Console.Write(' ');
+
+
+                //Trường hợp rắn ăn được mồi, tạo mồi mới:
+                if(originalCol == foodCol & originalRow == foodRow)
+                {
+                    //1. Xóa mồi cũ
+                    Console.SetCursorPosition(foodRow, foodCol);
+                    Console.ForegroundColor = ConsoleColor.Black;
+                    Console.Write(" ");
+                    //2. Tạo mồi mới random:
+                    foodRow = randomFood.Next(1, 9);
+                    foodCol = randomFood.Next(1, 8);
+                    Score++;
+                }
+
+                //vị trí điểm số (score position):
+                Console.SetCursorPosition(15, 5);
+                Console.BackgroundColor= ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.Write("Your score:" + Score);
             }
         }
     }
