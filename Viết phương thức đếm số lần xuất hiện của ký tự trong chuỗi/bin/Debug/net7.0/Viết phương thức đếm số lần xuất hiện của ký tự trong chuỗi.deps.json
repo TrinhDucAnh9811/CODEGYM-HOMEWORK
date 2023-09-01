@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Viết phương thức đếm số lần xuất hiện của ký tự trong chuỗi/1.0.0": {
+        "runtime": {
+          "Viết phương thức đếm số lần xuất hiện của ký tự trong chuỗi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Viết phương thức đếm số lần xuất hiện của ký tự trong chuỗi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
