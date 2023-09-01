@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\bin\Debug\net7.0\GAME - Rắn săn mồi.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\bin\Debug\net7.0\GAME - Rắn săn mồi.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\bin\Debug\net7.0\GAME - Rắn săn mồi.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\bin\Debug\net7.0\GAME - Rắn săn mồi.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\bin\Debug\net7.0\GAME - Rắn săn mồi.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\refint\GAME - Rắn săn mồi.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\GAME - Rắn săn mồi.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\GAME - Rắn săn mồi\obj\Debug\net7.0\ref\GAME - Rắn săn mồi.dll

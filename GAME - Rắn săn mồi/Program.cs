@@ -24,6 +24,7 @@ namespace DucAnh
             int originalRow = 2;
             int originalCol = 2;
 
+            //Biến lưu trữ vị trí tạm thời sau khi di chuyển:
             int tempRow = 0;
             int tempCol = 0;
 
@@ -33,7 +34,12 @@ namespace DucAnh
 
             while (play)
             {
-                
+                //vị trí điểm số (score position):
+                Console.SetCursorPosition(15, 4);
+                Console.BackgroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.Write("Your score:" + Score);
+
                 //Set vị trí ban đầu của rắn, đặt màu Green:
                 Console.SetCursorPosition(originalRow, originalCol);
                 Console.BackgroundColor = ConsoleColor.Green;
@@ -129,12 +135,20 @@ namespace DucAnh
                     Score++;
                 }
 
-                //vị trí điểm số (score position):
-                Console.SetCursorPosition(15, 5);
-                Console.BackgroundColor= ConsoleColor.Yellow;
-                Console.ForegroundColor = ConsoleColor.Black;
-                Console.Write("Your score:" + Score);
+
+                //Trường hợp rắn chạm vào tường, kết thúc vòng lặp + hiển thị Game-Over:
+                if (originalRow >8 || originalRow < 1 ||  originalCol > 7 || originalCol <1)
+                {
+                    play = false;
+                }
             }
+
+            //Hiển thị Game-Over:
+            Console.SetCursorPosition(2, 5);
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Write("Game Over");
+            Console.ReadKey();
         }
     }
 }
