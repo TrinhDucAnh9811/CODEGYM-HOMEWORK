@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lớp và đối tượng -BT2 - Xây dựng class Animal/1.0.0": {
+        "runtime": {
+          "Lớp và đối tượng -BT2 - Xây dựng class Animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lớp và đối tượng -BT2 - Xây dựng class Animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

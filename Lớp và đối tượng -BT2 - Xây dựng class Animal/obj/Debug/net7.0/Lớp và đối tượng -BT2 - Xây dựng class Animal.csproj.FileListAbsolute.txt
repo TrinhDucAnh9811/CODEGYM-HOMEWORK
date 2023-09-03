@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\bin\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\bin\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\bin\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\bin\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\bin\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\refint\Lớp và đối tượng -BT2 - Xây dựng class Animal.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\Lớp và đối tượng -BT2 - Xây dựng class Animal.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\Lớp và đối tượng -BT2 - Xây dựng class Animal\obj\Debug\net7.0\ref\Lớp và đối tượng -BT2 - Xây dựng class Animal.dll
