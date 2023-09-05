@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\bin\Debug\net7.0\THỰC HÀNH - Static Method.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\bin\Debug\net7.0\THỰC HÀNH - Static Method.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\bin\Debug\net7.0\THỰC HÀNH - Static Method.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\bin\Debug\net7.0\THỰC HÀNH - Static Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\bin\Debug\net7.0\THỰC HÀNH - Static Method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\refint\THỰC HÀNH - Static Method.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\THỰC HÀNH - Static Method.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Static Method\obj\Debug\net7.0\ref\THỰC HÀNH - Static Method.dll
