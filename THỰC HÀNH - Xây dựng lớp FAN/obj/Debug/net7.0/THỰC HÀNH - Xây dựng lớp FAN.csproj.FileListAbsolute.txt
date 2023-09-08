@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\bin\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\bin\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\bin\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\bin\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\bin\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\refint\THỰC HÀNH - Xây dựng lớp FAN.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\THỰC HÀNH - Xây dựng lớp FAN.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Xây dựng lớp FAN\obj\Debug\net7.0\ref\THỰC HÀNH - Xây dựng lớp FAN.dll
