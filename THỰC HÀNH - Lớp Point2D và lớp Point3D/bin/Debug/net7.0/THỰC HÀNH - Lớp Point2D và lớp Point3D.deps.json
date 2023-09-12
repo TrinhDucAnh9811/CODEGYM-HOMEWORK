@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "THỰC HÀNH - Lớp Point2D và lớp Point3D/1.0.0": {
+        "runtime": {
+          "THỰC HÀNH - Lớp Point2D và lớp Point3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "THỰC HÀNH - Lớp Point2D và lớp Point3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

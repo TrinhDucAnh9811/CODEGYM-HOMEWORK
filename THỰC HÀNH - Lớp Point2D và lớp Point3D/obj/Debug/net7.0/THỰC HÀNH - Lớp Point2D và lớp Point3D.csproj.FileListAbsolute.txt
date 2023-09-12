@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\bin\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\bin\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\bin\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\bin\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\bin\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\refint\THỰC HÀNH - Lớp Point2D và lớp Point3D.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\THỰC HÀNH - Lớp Point2D và lớp Point3D.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Point2D và lớp Point3D\obj\Debug\net7.0\ref\THỰC HÀNH - Lớp Point2D và lớp Point3D.dll
