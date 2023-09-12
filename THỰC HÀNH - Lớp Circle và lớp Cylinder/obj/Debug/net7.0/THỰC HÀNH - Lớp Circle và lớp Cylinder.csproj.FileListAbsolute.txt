@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\bin\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\bin\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\bin\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\bin\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\bin\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\refint\THỰC HÀNH - Lớp Circle và lớp Cylinder.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\THỰC HÀNH - Lớp Circle và lớp Cylinder.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\THỰC HÀNH - Lớp Circle và lớp Cylinder\obj\Debug\net7.0\ref\THỰC HÀNH - Lớp Circle và lớp Cylinder.dll
