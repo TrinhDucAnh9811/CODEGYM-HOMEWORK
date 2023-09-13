@@ -1,56 +1,41 @@
-﻿using System;
-using System.Drawing;
-
- namespace DucAnh
+﻿namespace DucAnh
+{ 
+class Program
 {
-    public class Shape
+    static void Main(string[] args)
+
     {
-        private string color = "green";
-        private bool filled = true;
+        Shape shape = new Shape();
+        Console.WriteLine(shape);
+        shape = new Shape("red", false);
+        Console.WriteLine(shape);
+        
 
-        public Shape() { }
+        Circle circle = new Circle();
+        Console.WriteLine(circle);
 
-        public Shape(string color, bool filled)
-        { 
-            this.color = color;
-            this.filled = filled;
-        }
+        circle = new Circle(3.5);
+        Console.WriteLine(circle);
 
-        public string GetColor()
-        {
-            return color;
-        }
-
-        public void SetColor()
-        {
-            this.color = color;
-        }
-
-        public bool IsFilled()
-        {
-            return filled;
-        }
-        public void SetFilled(bool filled)
-        {
-            this.filled = filled;
-        }
-
-        public override String ToString()
-        {
-            return "A Shape with color of " + GetColor() + " and " + (IsFilled() ? "filled" : "not filled");
-        }
+        circle = new Circle(3.5, "indigo", false);
+        Console.WriteLine(circle);
 
 
-        /*static void Main(string[] args)
+            Regtangle regtangle = new Regtangle();
 
-        {
-            Shape shape = new Shape();
-            Console.WriteLine(shape);
-            shape = new Shape("red", false);
-            Console.WriteLine(shape);
-            Console.WriteLine("Hello World!");
-        }*/
+            Console.WriteLine(regtangle);
+
+            regtangle = new Regtangle(2.3, 5.8);
+
+            Console.WriteLine(regtangle);
+
+            regtangle = new Regtangle( "orange", true, 2.5, 3.8);
+
+            Console.WriteLine(regtangle);
+
+            Console.ReadKey();
     }
 }
+}
 
-
+    

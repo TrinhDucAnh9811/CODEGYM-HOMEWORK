@@ -2,23 +2,24 @@ namespace DucAnh
 {
     public class Regtangle : Shape
     {
-        private double width = 1.0;
-        private double length = 1.0;
+        public double width = 1.0;
+        public double length = 1.0;
         public void Rectangle() { }
 
-        public void Rectangle(double width, double length)
+        public Regtangle() { }
+        public Regtangle(double width, double length)
         {
             this.width = width;
             this.length = length;
         }
 
-        public Rectangle(double width, double length, string color, bool filled) : base(color, filled)
+        public Regtangle(string color, bool filled, double width, double length) : base(color, filled)
         {
             this.width = width;
             this.length = length;
         }
 
-        public GetWidth()
+        public double GetWidth()
         {
             return width;
         }
@@ -28,7 +29,7 @@ namespace DucAnh
             this.width = width;
         }
 
-        public GetLength()
+        public double GetLength()
         {
             return length;
         }
@@ -55,24 +56,9 @@ namespace DucAnh
         }
 
     }
-
-    public static void Main(String[] args)
-    {
-
-        Rectangle rectangle = new Rectangle();
-
-        Console.WriteLine(rectangle);
-
-        rectangle = new Rectangle(2.3, 5.8);
-
-        Console.WriteLine(rectangle);
-
-        rectangle = new Rectangle(2.5, 3.8, "orange", true);
-
-        Console.WriteLine(rectangle);
-
-    }
+    
 }
+
 
 
     
