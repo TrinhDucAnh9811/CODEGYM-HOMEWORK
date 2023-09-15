@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\bin\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\refint\[Thực hành] Sử dụng lớp IndexOutOfRangeException.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\[Thực hành] Sử dụng lớp IndexOutOfRangeException.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Sử dụng lớp IndexOutOfRangeException\obj\Debug\net7.0\ref\[Thực hành] Sử dụng lớp IndexOutOfRangeException.dll
