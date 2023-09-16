@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\bin\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\bin\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\bin\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\bin\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\bin\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\refint\[Thực hành] Tính tổng các số trong file text.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\[Thực hành] Tính tổng các số trong file text.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Tính tổng các số trong file text\obj\Debug\net7.0\ref\[Thực hành] Tính tổng các số trong file text.dll
