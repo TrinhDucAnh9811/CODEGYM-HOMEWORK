@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.AssemblyInfo.cs
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.exe
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.deps.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.runtimeconfig.json
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\bin\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\refint\[Thực hành] Copy các file có dung lượng lớn.dll
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.pdb
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\[Thực hành] Copy các file có dung lượng lớn.genruntimeconfig.cache
+C:\Users\HP\Desktop\Unity Learn\CODEGYM\CODEGYM-HOMEWORK\[Thực hành] Copy các file có dung lượng lớn\obj\Debug\net7.0\ref\[Thực hành] Copy các file có dung lượng lớn.dll
