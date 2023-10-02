@@ -1,11 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using UnityEditor;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 40.0f;
+    private float moveSpeed = 10.0f;
+
+    private Rigidbody playerRb;
 
     public Transform[] desPosition;
     private bool isArrive1;
@@ -24,13 +27,22 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-       
+        playerRb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 destination1 = desPosition[0].position - transform.position;
+
+        var horizontalInput = Input.GetAxis("Horizontal");
+        var verticalInput = Input.GetAxis("Vertical");
+
+        playerRb.velocity = new Vector3(horizontalInput * moveSpeed, 0, verticalInput * moveSpeed);
+        
+
+
+
+        /*Vector3 destination1 = desPosition[0].position - transform.position;
         Vector3 destination2 = desPosition[1].position - transform.position;
         Vector3 destination3 = desPosition[2].position - transform.position;
 
@@ -52,7 +64,7 @@ public class PlayerController : MonoBehaviour
             manualText.text = carMode + " is ON";
         }
 
-        /*[Header("Automatic Mode")]*/
+        *//*[Header("Automatic Mode")]*//*
         if (carMode == DriveMode.automatic)
         {
                 if (isArrive1 == false)
@@ -94,5 +106,7 @@ public class PlayerController : MonoBehaviour
             isArrive3 = false;
             transform.position += Vector3.forward * verticalInput * Time.deltaTime * moveSpeed + Vector3.right * horizontalInput * Time.deltaTime * moveSpeed;
         }
+    }*/
     }
+    
 }
